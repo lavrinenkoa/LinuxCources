@@ -1,4 +1,4 @@
 # LinuxCources
-Quick start Linux cources for new developers
+Quick start Linux courses for new developers
 
 <img src="LinuxIsSimple.png" width="320">
